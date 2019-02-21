@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Webpack on Akimul Islam Akash</title>
+    <link>http://localhost:32801/tags/webpack/</link>
+    <description>Recent content in Webpack on Akimul Islam Akash</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>hello@akimul.com (Akimul Islam Akash)</managingEditor>
+    <webMaster>hello@akimul.com (Akimul Islam Akash)</webMaster>
+    <lastBuildDate>Mon, 18 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:32801/tags/webpack/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dajngo-webpack</title>
+      <link>http://localhost:32801/post/2019-02-18-configuring-webpack-and-es6-in-django/</link>
+      <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
+      <author>hello@akimul.com (Akimul Islam Akash)</author>
+      <guid>http://localhost:32801/post/2019-02-18-configuring-webpack-and-es6-in-django/</guid>
+      <description>Overview In this post, I will show how to configure Webpack and ES6 in Django application. I guess you already know django and want to configure webpack in your django app, this post will show you step by step guide.
+Tech Stack  Python3 Django 1.11 Webpack4 NPM Javascript (ES6)  Environment setup &amp;amp; Requirements Before getting started, please make sure that the followings are already installed on your system:</description>
+    </item>
+    
+  </channel>
+</rss>
