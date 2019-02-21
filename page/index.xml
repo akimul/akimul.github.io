@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Akimul Islam Akash</title>
-    <link>http://localhost:32801/page/</link>
+    <link>https://akimul.com/page/</link>
     <description>Recent content in Pages on Akimul Islam Akash</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>hello@akimul.com (Akimul Islam Akash)</managingEditor>
     <webMaster>hello@akimul.com (Akimul Islam Akash)</webMaster>
     
-	<atom:link href="http://localhost:32801/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://akimul.com/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>I&#39;m Akimul Islam Akash</title>
-      <link>http://localhost:32801/page/about/</link>
+      <link>https://akimul.com/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>hello@akimul.com (Akimul Islam Akash)</author>
-      <guid>http://localhost:32801/page/about/</guid>
+      <guid>https://akimul.com/page/about/</guid>
       <description>I have been working in the software industry for 5 years and currently working as a software engineer at Cefalo. I am a committed and responsible, self motivated developer and most importantly team player with focus on client’s needs and requirements.
 Skills languages = [&amp;#39;python&amp;#39;,&amp;#39;javascript&amp;#39;, &amp;#39;ruby&amp;#39;, &amp;#39;java&amp;#39;, &amp;#39;android&amp;#39;] frameworks = [&amp;#39;dJango&amp;#39;, &amp;#39;angularjs&amp;#39;, &amp;#39;vue.js&amp;#39;, &amp;#39;ruby on rails&amp;#39;, &amp;#39;jQuery&amp;#39;, &amp;#39;bootstrap&amp;#39;] libraries = [&amp;#39;react&amp;#39;, &amp;#39;redux&amp;#39;] tools = [&amp;#39;git&amp;#39;, &amp;#39;hugo&amp;#39;, &amp;#39;webpack&amp;#39;] skillset = languages + frameworks + libraries + tools View my code on GitHub, connect with me on LinkedIn, and follow me on Twitter.</description>
     </item>
