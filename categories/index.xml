@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Akimul Islam Akash</title>
-    <link>https://akimul.com/categories/</link>
+    <link>https://akimul.github.io/categories/</link>
     <description>Recent content in Categories on Akimul Islam Akash</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>hello@akimul.com (Akimul Islam Akash)</managingEditor>
     <webMaster>hello@akimul.com (Akimul Islam Akash)</webMaster>
     
-	<atom:link href="https://akimul.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://akimul.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

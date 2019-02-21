@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Git Subtree on Akimul Islam Akash</title>
-    <link>https://akimul.com/tags/git-subtree/</link>
+    <link>https://akimul.github.io/tags/git-subtree/</link>
     <description>Recent content in Git Subtree on Akimul Islam Akash</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>hello@akimul.com (Akimul Islam Akash)</managingEditor>
     <webMaster>hello@akimul.com (Akimul Islam Akash)</webMaster>
     <lastBuildDate>Thu, 21 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://akimul.com/tags/git-subtree/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://akimul.github.io/tags/git-subtree/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Git subtree</title>
-      <link>https://akimul.com/post/2019-02-21-using-git-subtree/</link>
+      <link>https://akimul.github.io/post/2019-02-21-using-git-subtree/</link>
       <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
       <author>hello@akimul.com (Akimul Islam Akash)</author>
-      <guid>https://akimul.com/post/2019-02-21-using-git-subtree/</guid>
+      <guid>https://akimul.github.io/post/2019-02-21-using-git-subtree/</guid>
       <description>Overview: Suppose, we have repository. We want to share another repository as a library between multiple repositories. In that case, we subtree the shared repository in other repositories.
 Usage and Commands: Let say, we have two repositoty parent and child. We want to use the child repo as subtree library in the parent repo.
 Initially,
