@@ -26,7 +26,7 @@ child --c.py --d.py adding subtree In order to add the child repo as subtree to 
     </item>
     
     <item>
-      <title>Dajngo-webpack</title>
+      <title>Django-webpack</title>
       <link>https://akimul.github.io/post/2019-02-18-configuring-webpack-and-es6-in-django/</link>
       <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
       <author>hello@akimul.com (Akimul Islam Akash)</author>
