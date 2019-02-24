@@ -62,7 +62,7 @@
   },
   "headline": "Git subtree",
   "description" : "Suppose, we have repository. We want to share another repository as a library between multiple repositories. In that case, we subtree the shared repository in other repositories.
-Usage and Commands: Let say, we have two repositoty parent and child. We want to use the child repo as subtree library in the parent repo.
+Usage and Commands: Let say, we have two repository parent and child. We want to use the child repo as subtree library in the parent repo.
 Initially,
 parent --a.py --b.py and child
 child --c.py --d.py adding subtree In order to add the child repo as subtree to the parent repo:",
@@ -300,7 +300,7 @@ In that case, we subtree the shared repository in other repositories.</p>
 
 <h3 id="usage-and-commands">Usage and Commands:</h3>
 
-<p>Let say, we have two repositoty <code>parent</code> and <code>child</code>. We want to use the <code>child</code> repo as subtree library in the <code>parent</code> repo.</p>
+<p>Let say, we have two repository <code>parent</code> and <code>child</code>. We want to use the <code>child</code> repo as subtree library in the <code>parent</code> repo.</p>
 
 <p>Initially,</p>
 <div class="highlight"><pre class="chroma">parent
@@ -336,7 +336,7 @@ Everything is okay, changes will be pushed to <code>parent</code>. But it will n
 
 <h4 id="switching-to-different-subtree-branch">Switching to different subtree branch</h4>
 
-<p>If we want to switch to different branch of the subtree, we need to first the the subree(<code>child</code>). From the <code>parent</code> dir:</p>
+<p>If we want to switch to different branch of the subtree, we need to first the the subtree(<code>child</code>). From the <code>parent</code> dir:</p>
 <div class="highlight"><pre class="chroma">git rm -r child
 git commit -m &#39;msg&#39;</pre></div>
 <p>now we need to add the subtree again with the desired branch name:</p>
