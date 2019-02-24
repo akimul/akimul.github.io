@@ -18,7 +18,7 @@
       <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
       <author>hello@akimul.com (Akimul Islam Akash)</author>
       <guid>https://akimul.github.io/post/2019-02-18-configuring-webpack-and-es6-in-django/</guid>
-      <description>Overview In this post, I will show you how to configure Webpack and ES6 in Django application. I guess you already know django and want to configure webpack in your django app, this post will show you step by step guide.
+      <description>In this post, I will show you how to configure Webpack and ES6 in Django application. I guess you already know django and want to configure webpack in your django app, this post will show you step by step guide.
 Tech Stack  Python3 Django 1.11 Webpack4 NPM Javascript (ES6)  Environment setup &amp;amp; Requirements Before getting started, please make sure that the followings are already installed on your system:</description>
     </item>
     
