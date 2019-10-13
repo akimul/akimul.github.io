@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Akimul Islam Akash</title>
-    <link>https://akimul..com/tags/</link>
+    <link>https://akimul.com/tags/</link>
     <description>Recent content in Tags on Akimul Islam Akash</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>hello@akimul.com (Akimul Islam Akash)</managingEditor>
     <webMaster>hello@akimul.com (Akimul Islam Akash)</webMaster>
     <lastBuildDate>Thu, 21 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://akimul..com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://akimul.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>git</title>
-      <link>https://akimul..com/tags/git/</link>
+      <link>https://akimul.com/tags/git/</link>
       <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
       <author>hello@akimul.com (Akimul Islam Akash)</author>
-      <guid>https://akimul..com/tags/git/</guid>
+      <guid>https://akimul.com/tags/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>git-subtree</title>
-      <link>https://akimul..com/tags/git-subtree/</link>
+      <link>https://akimul.com/tags/git-subtree/</link>
       <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
       <author>hello@akimul.com (Akimul Islam Akash)</author>
-      <guid>https://akimul..com/tags/git-subtree/</guid>
+      <guid>https://akimul.com/tags/git-subtree/</guid>
       <description></description>
     </item>
     
     <item>
       <title>subtree</title>
-      <link>https://akimul..com/tags/subtree/</link>
+      <link>https://akimul.com/tags/subtree/</link>
       <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
       <author>hello@akimul.com (Akimul Islam Akash)</author>
-      <guid>https://akimul..com/tags/subtree/</guid>
+      <guid>https://akimul.com/tags/subtree/</guid>
       <description></description>
     </item>
     
     <item>
       <title>django</title>
-      <link>https://akimul..com/tags/django/</link>
+      <link>https://akimul.com/tags/django/</link>
       <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
       <author>hello@akimul.com (Akimul Islam Akash)</author>
-      <guid>https://akimul..com/tags/django/</guid>
+      <guid>https://akimul.com/tags/django/</guid>
       <description></description>
     </item>
     
     <item>
       <title>es6</title>
-      <link>https://akimul..com/tags/es6/</link>
+      <link>https://akimul.com/tags/es6/</link>
       <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
       <author>hello@akimul.com (Akimul Islam Akash)</author>
-      <guid>https://akimul..com/tags/es6/</guid>
+      <guid>https://akimul.com/tags/es6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>webpack</title>
-      <link>https://akimul..com/tags/webpack/</link>
+      <link>https://akimul.com/tags/webpack/</link>
       <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
       <author>hello@akimul.com (Akimul Islam Akash)</author>
-      <guid>https://akimul..com/tags/webpack/</guid>
+      <guid>https://akimul.com/tags/webpack/</guid>
       <description></description>
     </item>
     
